@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ALateBoundTestFramework_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Ff9878f643c2ecf1b4ce73234de56c9754a451c835620eae85ca8babbcb5889c4_003FLateBoundTestFramework_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3d201044_002D1394_002D4b5f_002Dbfd8_002D2c77c45c2be4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests.Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3eb2889d_002D20bf_002D49a7_002Dac42_002D8154e1b330c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests.Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=408bb0c8_002Dab98_002D4622_002D83ea_002Dbf93e26da5ec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests.Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c16e97c_002D127e_002D4e0c_002D8996_002D6cf5be08899e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=763c1920_002D03a4_002D4171_002Da49a_002Dc2bc5e13cc36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests.Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf2230ec_002D62c8_002D402b_002Db720_002Da0b2daf18d37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Parse_CharactersAfterRootNodeEnd_ThrowsSyntaxException #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests.Parse_CharactersAfterRootNodeEnd_IgnoresAdditionalInput&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NpcsvRendererTests.RenderUnsorted_MultiLevelNode_ReturnsExpectedOutput&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests.Parse_ValidInput_ReturnsExpectedTree&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NpcsvRendererTests.RenderSorted_MultiLevelNode_ReturnsExpectedOutput&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9894568C-1E3A-41CC-9F08-620BD2C159CA::net10.0::RedRover.Puzzle.Console.Tests.Unit.NestedCsvParserTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
